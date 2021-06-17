@@ -1,3 +1,4 @@
+"""the logo images weren't uploaded but can be viewed int he video"""
 from tkinter import *
 from tkinter import messagebox
 from PIL import Image, ImageTk
